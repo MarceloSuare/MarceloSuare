@@ -33,7 +33,7 @@ Herramientas para extraer datos del portal del MEF sin morir en el intento. Lo q
 Si quieres hablar de datos, automatización o simplemente saludar:
 
 📧 marcelosuarezsaravia@gmail.com  
-💼 [LinkedIn](tu-linkedin)
+💼 [LinkedIn](https://www.linkedin.com/in/marcelo-giovan-suarez-saravia-2a778522b/)
 
 ---
 
