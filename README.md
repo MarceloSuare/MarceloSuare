@@ -18,7 +18,7 @@ Cuando algo me toma mucho tiempo hacerlo manualmente, busco la forma de automati
 
 ## Proyectos
 
-**🏛️ [Scrapers MEF](link-a-tu-repo)**  
+**🏛️ [Scrapers MEF](https://github.com/MarceloSuare/scraper-invierte-mef)**  
 Herramientas para extraer datos del portal del MEF sin morir en el intento. Lo que antes tomaba días, ahora son minutos.
 
 ## Un poco de contexto
