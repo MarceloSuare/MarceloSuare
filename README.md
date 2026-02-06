@@ -1,14 +1,14 @@
 # Hola, soy Marcelo 👋
 
-Economista trabajando en el MINSA, tratando de hacer que los datos del sector público sean más fáciles de entender y usar.
+Economista trabajando con datos de inversión pública en Perú.
 
 Me gusta automatizar cosas aburridas para tener más tiempo para lo que importa.
 
 ## Lo que hago
 
-Trabajo con datos de inversión pública - básicamente convierto montañas de información del MEF en dashboards que la gente pueda entender de un vistazo. 
+Trabajo con datos del sector público - básicamente convierto montañas de información del MEF en dashboards que la gente pueda entender de un vistazo. 
 
-Cuando algo me toma mucho tiempo hacerlo manualmente, busco la forma de automatizarlo. Así nació este repo de scrapers.
+Cuando algo me toma mucho tiempo hacerlo manualmente, busco la forma de automatizarlo. Así nacieron estos scrapers.
 
 ## Con qué trabajo
 
@@ -19,14 +19,14 @@ Cuando algo me toma mucho tiempo hacerlo manualmente, busco la forma de automati
 ## Proyectos
 
 **🏛️ [Scrapers MEF](link-a-tu-repo)**  
-Herramientas para extraer datos del portal del MEF sin morir en el intento. Lo que antes me tomaba días, ahora son minutos.
+Herramientas para extraer datos del portal del MEF sin morir en el intento. Lo que antes tomaba días, ahora son minutos.
 
 ## Un poco de contexto
 
-- 🎓 Estudié economía en la UNCP (Huancayo)
-- 🏥 Actualmente en el MINSA haciendo análisis de inversiones
-- 📡 Antes estuve en OSIPTEL armando dashboards y sistemas de seguimiento
+- 🎓 Economista de la UNCP (Huancayo)
+- 📊 Trabajo con análisis de datos en el sector público
 - 🤓 Me gusta aprender herramientas nuevas para resolver problemas
+- ☕ De Huancayo, ahora en Lima
 
 ## Contacto
 
